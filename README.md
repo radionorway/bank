@@ -1,3 +1,3 @@
 ### Technologies
 
-React, Tailwind CSS, PostCSS.
+React, Tailwind CSS, PostCSS
